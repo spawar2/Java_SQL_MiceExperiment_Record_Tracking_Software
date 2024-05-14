@@ -1,4 +1,4 @@
-# Java_SQL_MiceExperiment_Record_Tracking_Software
+# Java_SQL_MiceExperiment_Record_Tracking_Software collaboration with Dr. Batra, Georgia State University  https://www.linkedin.com/in/harshul-batra/
 
 [Java: javax.swing.JFrame, javax.swing.JOptionPane, javax.swing.table.DefaultTableModel, javax.swing.table.TableModel, java.sql.*, javax.swing.*, net.proteanit.sql.DbUtils, java.sql.Connection, java.sql.Statement, java.sql.SQLException, java.util.ArrayList]
 [Paper Link:](https://www.ncbi.nlm.nih.gov/pubmed/30271620)
