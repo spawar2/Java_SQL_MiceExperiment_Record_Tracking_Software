@@ -1,4 +1,4 @@
-# Java_SQL_MiceExperiment_Record_Tracking_Software collaboration with Dr. Batra, Georgia State University  https://www.linkedin.com/in/harshul-batra/
+# Java_SQL_MiceExperiment_Record_Tracking_Software collaboration with Dr. Batra, Georgia State University, Atlanta, USA.  https://www.linkedin.com/in/harshul-batra/
 <img width="99" alt="Future Science OA" src="https://github.com/spawar2/Java_SQL_MiceExperiment_Record_Tracking_Software/assets/25118302/249347b4-0f2b-44d5-9cca-44b9c5ab3c16">
 
 [Java: javax.swing.JFrame, javax.swing.JOptionPane, javax.swing.table.DefaultTableModel, javax.swing.table.TableModel, java.sql.*, javax.swing.*, net.proteanit.sql.DbUtils, java.sql.Connection, java.sql.Statement, java.sql.SQLException, java.util.ArrayList]
