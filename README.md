@@ -8,4 +8,4 @@ https://csds.gsu.edu/
 https://www.biomedicine.video/methods-technologies/rodentsql-software-suite-animal-protocols
 
 Record_DB.sql, Record_System_tabs.java: Record System classes, Structured Query Language (Mysql) connection.
-selected method (Record_System_tabs, getconnection, show_users_in_jtable, jButton5ActionPerformed, jComboBox1ActionPerformed, jTable1MouseClicked, users)
+selected method (Record_System_tabs, getconnection, show_users_in_jtable, jButton5ActionPerformed, jComboBox1ActionPerformed, jTable1MouseClicked, users).
