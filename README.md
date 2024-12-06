@@ -10,3 +10,5 @@ https://www.biomedicine.video/methods-technologies/rodentsql-software-suite-anim
 Record_DB.sql, Record_System_tabs.java: Record System classes, Structured Query Language (Mysql) connection.
 selected method (Record_System_tabs, getconnection, show_users_in_jtable, jButton5ActionPerformed, jComboBox1ActionPerformed, jTable1MouseClicked, users).
 RodentSQL: a software suite for colony management of animal protocols, Shrikant Pawar and Harshul Batra, Publication: Future Science OA (Publication date: September 8), collaboration with Dr. Batra, Georgia State University, Atlanta, USA. Video, App, IF=5.0.Github, Article link, [Cited times: 2]^^^ DOI: 10.4155/fsoa-2018-0054, Issue: 4, Volume: 9, Pages: FSO330.
+†
+†Corresponding author. ††First author. †††Second author. ††††Third author. †††††author.
