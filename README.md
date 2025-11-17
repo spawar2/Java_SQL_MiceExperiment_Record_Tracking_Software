@@ -54,7 +54,7 @@ https://shiny.posit.co/
 https://cran.r-project.org/package=ggbeeswarm
 https://cran.r-project.org/package=speedglm
 https://magrittr.tidyverse.org/
-
+^^^^co-authors departments: Department of Biology, Computer Science, Pathology, Biomedical Informatics & Data Science, Immunobiology, Neuroscience, Chemistry, Bioengineering, Genetics and Biochemistry, & Public Health. 
 https://www.python.org/
 https://scikit-learn.org/
 https://pandas.pydata.org/
