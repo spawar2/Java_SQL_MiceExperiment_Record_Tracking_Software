@@ -6,6 +6,7 @@ Future Science OA, [Paper Link:](https://www.ncbi.nlm.nih.gov/pubmed/30271620)
 <img width="545" alt="Screenshot 2023-02-27 at 11 48 54 PM" src="https://user-images.githubusercontent.com/25118302/221758416-1c7ecf00-091f-4a90-a93b-7c5de61b19d3.png">
 https://csds.gsu.edu/ Digital Object Identifier (DOI)=Online International Standard Book Number (ISBN).
 https://www.biomedicine.video/methods-technologies/rodentsql-software-suite-animal-protocols
+<img width="1460" height="796" alt="Screenshot 2026-05-20 at 1 51 33 AM" src="https://github.com/user-attachments/assets/29fc6d3d-6629-4b64-95b6-cbead965b40f" />
 
 Record_DB.sql, Record_System_tabs.java: Record System classes, Structured Query Language (Mysql) connection.
 selected method (Record_System_tabs, getconnection, show_users_in_jtable, jButton5ActionPerformed, jComboBox1ActionPerformed, jTable1MouseClicked, users).
